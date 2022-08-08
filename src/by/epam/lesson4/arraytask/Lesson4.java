@@ -5,6 +5,10 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Lesson4 {
+    /**
+     * Выполнены следующие задачи: task1-task20, sorting;
+     * @author Tatsiana Tkachova
+     */
     public static void main(String[] args) {
         task1();
         task2();
